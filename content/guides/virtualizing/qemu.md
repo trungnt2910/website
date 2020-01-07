@@ -1,7 +1,7 @@
 +++
 type = "article"
 title = "Virtualizing Haiku in QEMU "
-date = "2020-01-06T21:49:28.000Z"
+date = "2019-12-31T21:49:28.000Z"
 tags = []
 +++
 
